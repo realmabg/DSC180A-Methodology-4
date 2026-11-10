@@ -23,4 +23,5 @@ I would like to investigate which types of transfers are most likely to succeed 
 I would put more emphasis on changes in playing time and role when evaluating transfer outcomes. A decline in scoring does not necessarily mean a player became less effective; they may have fewer opportunities on their new team. Separating changes in opportunity from changes in efficiency could help us better understand which transfers performed well.
 
 **What other techniques would you be interested in using in your project?**
+
 I would be interested in using nearest-neighbor methods to identify past transfers with similar profiles and see how they performed at their destinations. I would also like to explore hierarchical models that account for differences across teams and conferences. These could help us make predictions while showing the uncertainty involved, especially for players with fewer comparable examples.
